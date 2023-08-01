@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "574027356927",
+    "project_id": "ulmo-353905",
+    "storage_bucket": "ulmo-353905.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574027356927:android:ed53dc79fe4654ddf34aca",
+        "android_client_info": {
+          "package_name": "com.fahim.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574027356927-fbp5cmu8q31t2peh3mfohneae2tfkoar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fahim.testapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "574027356927-vd15o667kv12qcqb2gsh9l21dn52aakb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPm74heokgfxfbSLcFjUEX4Rp_1JdrOx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574027356927-vd15o667kv12qcqb2gsh9l21dn52aakb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "574027356927-ig4g6ec98hevv1fj4n1koo8uleqbijaq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fahim.testapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
